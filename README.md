@@ -1,4 +1,4 @@
-# Net::Qiita
+# Net::Qiitaaaaaaaa
 
 Net::Qiita is a simple Perl wrapper for the Qiita API v1.
 
